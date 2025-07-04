@@ -1,0 +1,18 @@
+# VS Code 設定
+.vscode/
+
+# Python 快取檔案
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 環境設定
+env/
+venv/
+ENV/
+.venv/
+
+# 系統檔
+.DS_Store
+Thumbs.db
